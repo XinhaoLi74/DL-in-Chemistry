@@ -10,3 +10,5 @@
   2. [The Next Era: Deep Learning in Pharmaceutical Research](https://www.ncbi.nlm.nih.gov/pubmed/27599991) (2016)
   ### Synthesis Planing
   1. [Machine Learning in Computer-Aided Synthesis Planning](https://pubs.acs.org/doi/10.1021/acs.accounts.8b00087) (2018)
+  ### Transfer learning and multitask learning
+  1. [Transfer and Multi-task Learning in QSAR Modeling: Advances and Challenges](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5807924/)
