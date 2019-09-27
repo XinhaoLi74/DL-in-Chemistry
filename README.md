@@ -13,3 +13,5 @@
   1. [Machine Learning in Computer-Aided Synthesis Planning](https://pubs.acs.org/doi/10.1021/acs.accounts.8b00087) (2018)
   ### Transfer learning and multitask learning
   1. [Transfer and Multi-task Learning in QSAR Modeling: Advances and Challenges](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5807924/) (2018)
+  ### MD Simulation
+  1. [Machine learning approaches for analyzing and enhancing molecular dynamics simulations](https://arxiv.org/abs/1909.11748) (2019)
