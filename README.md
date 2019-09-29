@@ -1,4 +1,4 @@
-# Summary of papers Deep Learning in Chemistry (In Process)
+# Summary of papers Deep Learning in Chemistry 
 ## 1. reviews of deep learning in chemistry
   ### General Introduction
   1. [Deep Learning in Chemistry](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00266) (2019)
