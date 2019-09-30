@@ -1,4 +1,4 @@
-# Summary of papers Deep Learning in Chemistry 
+# A List of papers Deep Learning in Chemistry 
 ## 1. reviews of deep learning in chemistry
   ### General Introduction
   1. [Deep Learning in Chemistry](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00266) (2019)
@@ -15,3 +15,20 @@
   1. [Transfer and Multi-task Learning in QSAR Modeling: Advances and Challenges](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5807924/) (2018)
   ### MD Simulation
   1. [Machine learning approaches for analyzing and enhancing molecular dynamics simulations](https://arxiv.org/abs/1909.11748) (2019)
+
+
+## 2. Applications by Molecular Representations
+
+### 2.1. Molecular Graph
+
+Mufei Li has complied a list of deep learning for molecular graph: [DL4MolecularGraph](https://github.com/mufeili/DL4MolecularGraph).
+
+### 2.2. SMILES and Analogues
+
+  #### Data Mining
+  1. Named Entity Recognition and Normalization Applied to Large-Scale Information Extraction from the Materials Science Literature. [J. Chem. Inf. Model. 2019.](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00470) | [ChemRXIV](https://chemrxiv.org/articles/Named_Entity_Recognition_and_Normalization_Applied_to_Large-Scale_Information_Extraction_from_the_Materials_Science_Literature/8226068/1) | [Github](https://github.com/materialsintelligence/matscholar)
+  
+  #### Synthesis Planing
+  1. Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction. [ACS Cent. Sci.2019](https://pubs.acs.org/doi/10.1021/acscentsci.9b00576) | [ChemRxiv](https://chemrxiv.org/articles/Molecular_Transformer_for_Chemical_Reaction_Prediction_and_Uncertainty_Estimation/7297379) | [Github](https://github.com/pschwllr/MolecularTransformer)
+  2. Molecular Transformer unifies reaction prediction and retrosynthesis across pharma chemical space. [Chem. Commun. 2019](https://pubs.rsc.org/en/content/articlelanding/2019/CC/c9cc05122h#!divAbstract) 
+
