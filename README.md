@@ -31,4 +31,7 @@ Mufei Li has complied a list of deep learning for molecular graph: [DL4Molecular
   #### Synthesis Planing
   1. Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction. [ACS Cent. Sci.2019](https://pubs.acs.org/doi/10.1021/acscentsci.9b00576) | [ChemRxiv](https://chemrxiv.org/articles/Molecular_Transformer_for_Chemical_Reaction_Prediction_and_Uncertainty_Estimation/7297379) | [Github](https://github.com/pschwllr/MolecularTransformer)
   2. Molecular Transformer unifies reaction prediction and retrosynthesis across pharma chemical space. [Chem. Commun. 2019](https://pubs.rsc.org/en/content/articlelanding/2019/CC/c9cc05122h#!divAbstract) 
+  
+  #### Molecular Design
+  1. Re-balancing Variational Autoencoder Loss for Molecule Sequence Generation. (2019) [arXiv](https://arxiv.org/abs/1910.00698)
 
