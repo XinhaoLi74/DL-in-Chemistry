@@ -1,4 +1,7 @@
 # A List of papers Deep Learning in Chemistry 
+
+This is a list of implementations of deep learning methods to chemistry. A list of deep learing in biology can be found in Mikael Huss' [repo](https://github.com/hussius/deeplearning-biology). 
+
 ## 1. reviews of deep learning in chemistry
   ### General Introduction
   1. [Deep Learning in Chemistry](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00266) (2019)
