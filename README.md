@@ -17,6 +17,7 @@ This is a list of implementations of deep learning methods to chemistry. A list 
   ### Transfer learning and multitask learning
   1. [Transfer and Multi-task Learning in QSAR Modeling: Advances and Challenges](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5807924/) (2018)
   ### MD Simulation
+  Shasha Feng has built a [repo](https://github.com/sha256feng/mldl-md-dynamics) of machine learning/deep learning in  molecular dynamics.
   1. [Machine learning approaches for analyzing and enhancing molecular dynamics simulations](https://arxiv.org/abs/1909.11748) (2019)
 
 
