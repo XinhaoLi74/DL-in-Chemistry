@@ -38,4 +38,4 @@ Mufei Li has complied a list of deep learning for molecular graph: [DL4Molecular
   
   #### Molecular Design
   1. Re-balancing Variational Autoencoder Loss for Molecule Sequence Generation. (2019) [arXiv](https://arxiv.org/abs/1910.00698)
-
+  2. Generating customized compound libraries for drug discovery with machine intelligence (2019) [ChemRxiv](https://chemrxiv.org/articles/Generating_Customized_Compound_Libraries_for_Drug_Discovery_with_Machine_Intelligence/10119299) [Github](https://github.com/ETHmodlab/virtual_libraries)
