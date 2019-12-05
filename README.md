@@ -17,6 +17,7 @@ This is a list of implementations of deep learning methods to chemistry. A list 
   1. [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598) (2018)
   2. [The Next Era: Deep Learning in Pharmaceutical Research](https://www.ncbi.nlm.nih.gov/pubmed/27599991) (2016)
   3. [Deep learning for molecular design - a review of the state of the art](https://arxiv.org/abs/1903.04388) (2019)
+  4. Rethinking drug design in the artificial intelligence era. [Nature Review](https://www.nature.com/articles/s41573-019-0050-3)
   ### Synthesis Planing
   1. [Machine Learning in Computer-Aided Synthesis Planning](https://pubs.acs.org/doi/10.1021/acs.accounts.8b00087) (2018)
   ### Transfer learning and multitask learning
