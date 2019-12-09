@@ -74,3 +74,4 @@ Mufei Li has complied a list of deep learning for molecular graph: [DL4Molecular
   13. FP2VEC: a new molecular featurizer for learning molecular properties. [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz307/5487389)
   14. Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction. [arXiv](https://arxiv.org/abs/1908.06760)
   15. DeepAffinity: Interpretable Deep Learning of Compound-Protein Affinity through Unified Recurrent and Convolutional Neural Networks. [arXiv](https://arxiv.org/abs/1806.07537)
+  16. Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism. [J. Med. Chem.](https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b00959)
