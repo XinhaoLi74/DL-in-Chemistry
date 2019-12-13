@@ -50,6 +50,7 @@ Mufei Li has complied a list of deep learning for molecular graph: [DL4Molecular
   1. Re-balancing Variational Autoencoder Loss for Molecule Sequence Generation. (2019) [arXiv](https://arxiv.org/abs/1910.00698)
   2. Generating customized compound libraries for drug discovery with machine intelligence (2019) [ChemRxiv](https://chemrxiv.org/articles/Generating_Customized_Compound_Libraries_for_Drug_Discovery_with_Machine_Intelligence/10119299) [Github](https://github.com/ETHmodlab/virtual_libraries)
   3. Deep Generative Models for 3D Compound Design. (2019) [BioRxiv](https://www.biorxiv.org/content/10.1101/830497v1) [Github](https://github.com/oxpig/DeLinker)
+  4. Molecular Generative Model Based On Adversarially Regularized Autoencoder. [arXiv](https://arxiv.org/abs/1912.05617). [Github](https://github.com/gicsaw/ARAE_SMILES)
   
   #### Image
   1. Learning Drug Function from Chemical Structure with Convolutional Neural Networks and Random Forests. [BioRxiv](https://www.biorxiv.org/content/10.1101/482877v2.full)
