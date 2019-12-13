@@ -34,11 +34,12 @@ This is a list of implementations of deep learning methods to chemistry. A list 
 Mufei Li has complied a list of deep learning for molecular graph: [DL4MolecularGraph](https://github.com/mufeili/DL4MolecularGraph).
 
   1. Sparse hierarchical representation learning on molecular graphs. [arXiv](https://arxiv.org/abs/1908.02065)
+  2. Deep Generative Models for 3D Compound Design. [BioRxiv](https://www.biorxiv.org/content/10.1101/830497v1)
 
 ### 2.2. SMILES and Analogues
 
   #### Data Mining
-  1. Named Entity Recognition and Normalization Applied to Large-Scale Information Extraction from the Materials Science Literature. [J. Chem. Inf. Model. 2019.](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00470) | [ChemRXIV](https://chemrxiv.org/articles/Named_Entity_Recognition_and_Normalization_Applied_to_Large-Scale_Information_Extraction_from_the_Materials_Science_Literature/8226068/1) | [Github](https://github.com/materialsintelligence/matscholar)
+  1. Named Entity Recognition and Normalization Applied to Large-Scale Information Extraction from the Materials Science Literature. [J. Chem. Inf. Model. 2019.](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00470) | [ChemRxiv](https://chemrxiv.org/articles/Named_Entity_Recognition_and_Normalization_Applied_to_Large-Scale_Information_Extraction_from_the_Materials_Science_Literature/8226068/1) | [Github](https://github.com/materialsintelligence/matscholar)
   2. Molecular Structure Extraction from Documents Using Deep Learning. [J. Chem. Inf. Model.](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00669)
   3. BioSentVec: creating sentence embeddings for biomedical texts. [IEEE](https://ieeexplore.ieee.org/abstract/document/8904728)
   
